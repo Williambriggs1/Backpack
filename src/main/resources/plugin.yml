@@ -1,0 +1,7 @@
+name: Backpack
+version: '${version}'
+main: me.will.backpack.Backpack
+api-version: 1.18
+depend: [ MMOItems ]
+authors: [ Williambriggs ]
+description: A simple backpack plugin
